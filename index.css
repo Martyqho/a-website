@@ -1,0 +1,22 @@
+.body-style {
+  background: aquamarine;
+  text-align: center;
+  font-style: italic;
+}
+
+.big-text {
+  font-size: 125px;
+}
+.large-text {
+  font-size: 30px;
+}
+
+button {
+  font-size: 20px;
+}
+.MongoDB number {
+  font-size: 20
+}
+.Mysql number {
+  font-size: 20
+}
